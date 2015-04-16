@@ -7,6 +7,12 @@ gem 'rails', '4.2.1'
 # Use bcrypt to hashing the password, anti-hacker
 gem 'bcrypt'
 
+gem 'faker'
+
+gem 'will_paginate'
+
+gem 'bootstrap-will_paginate'
+
 gem 'bootstrap-sass'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
